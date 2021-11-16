@@ -1,5 +1,7 @@
 # Merge Sort
 
+### No Googling the merge sort algorithm
+
 - Create a program called `MergeSort.java`
 - Create a void static method that implents the merge sort algorithm
   - For this, you will also need to create a void static method that merges two sorted subarrays into one sorted array
