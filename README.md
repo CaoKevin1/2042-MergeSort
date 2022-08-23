@@ -1,5 +1,7 @@
 # Merge Sort
 
+## Due: DoW MM/DD at 11:59 PM
+
 ### No Googling the merge sort algorithm
 
 - Create a program called `MergeSort.java`
