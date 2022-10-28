@@ -15,7 +15,7 @@
   - Use the merge sort method you wrote to sort the array
   - Print the sorted array
 
-Example Input:\
+***Example Input:***\
 input1.txt\
-Example Output:\
+***Example Output:***\
 1, 2, 3, 7, 17, 19, 24, 30, 44, 85
