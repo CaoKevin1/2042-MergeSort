@@ -1,6 +1,6 @@
 # Merge Sort
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Fri 11/18 at 11:59 PM
 
 ### No Googling the merge sort algorithm
 
