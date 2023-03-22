@@ -7,7 +7,7 @@
       "input": "input1.txt",
       "output": "1, 2, 3, 7, 17, 19, 24, 30, 44, 85",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "input2.txt",
       "output": "19",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "input3.txt",
       "output": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
