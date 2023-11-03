@@ -1,6 +1,6 @@
 # Merge Sort
 
-## Due: Fri 11/18 at 11:59 PM
+## Due: Thur 11/9 at 11:59 PM
 
 ### No Googling the merge sort algorithm
 
